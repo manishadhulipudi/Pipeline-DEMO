@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Owners>
+  <OwnerId>1864</OwnerId>
+  <OwnerType>TEST</OwnerType>
+  <Name><![CDATA[WA2_AP_CN_FI_FA05_Asset retirement]]></Name>
+  <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+  <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+  <Owner>
+    <OwnerId>1864</OwnerId>
+    <OwnerType>TEST</OwnerType>
+    <Name><![CDATA[WA2_AP_CN_FI_FA05_Asset retirement]]></Name>
+    <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+    <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    <Relation>
+      <RelatedId>4836</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+      <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>4838</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Action2]]></Name>
+      <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+      <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>4837</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Action1]]></Name>
+      <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+      <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>4835</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Main Test Flow]]></Name>
+      <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+      <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    </Relation>
+  </Owner>
+  <Owner>
+    <OwnerId>4838</OwnerId>
+    <OwnerType>USER_ASSETS</OwnerType>
+    <Name><![CDATA[Action2]]></Name>
+    <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+    <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    <Relation>
+      <RelatedId>4836</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+      <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>2</Order>
+    </Relation>
+  </Owner>
+  <Owner>
+    <OwnerId>4837</OwnerId>
+    <OwnerType>USER_ASSETS</OwnerType>
+    <Name><![CDATA[Action1]]></Name>
+    <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+    <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+    <Relation>
+      <RelatedId>4836</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSPath><![CDATA[Test\1864\1864\19999]]></FSPath>
+      <QCPath><![CDATA[Subject\1 - UFT Automated Regression Suite\Asia Pacific\FI\WA2_AP_CN_FI_FA05_Asset retirement]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>1</Order>
+    </Relation>
+  </Owner>
+</Owners>
